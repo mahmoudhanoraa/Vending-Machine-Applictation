@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "843634548139",
+    "firebase_url": "https://vendingmachine-2a0c5.firebaseio.com",
+    "project_id": "vendingmachine-2a0c5",
+    "storage_bucket": "vendingmachine-2a0c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843634548139:android:6c919da3b5bbf0ee",
+        "android_client_info": {
+          "package_name": "com.example.hanora.vending"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843634548139-rv07k7gs1gsbjk8mucnuhs1ei6v3n90d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKC62391z2H8K4prv4mmCU1O3VKDn-AY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
